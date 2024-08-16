@@ -17,7 +17,6 @@ import InputText from './InputText';
 export const App: React.FC = () => {
   return (
     <div className="starter">
-      ololoVJhvhfjfsh;fo
       <InputText />
     </div>
   );

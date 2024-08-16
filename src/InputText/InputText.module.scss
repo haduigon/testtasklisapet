@@ -1,0 +1,30 @@
+.box {
+  // border-color: lightgrey;
+  
+}
+
+input {
+  border: 1px solid #D1D1D6;
+  border-radius: 3px;
+  padding: 8px;
+  width: 323px;
+  height: 36px;
+  outline: none;
+  transition: 0.5s ease;
+  caret-color: #1A1A1E;
+  color: #1A1A1E;
+}
+
+input:focus {
+  border-color: #84CAFF;
+}
+
+input::placeholder{
+  color: #70707B;
+  font-family: Inter;
+  font-weight: 400;
+  font-size: 1em;
+  line-height: 24px;
+  
+}
+

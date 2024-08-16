@@ -1,7 +1,10 @@
-import styles from './InputtText.module.scss';
+/* eslint-disable */
+import styles from './InputText.module.scss';
 
 const InputText = () => {
-  return <div className={styles.text}>Input text element</div>;
+  return <div className={styles.box}>
+            <input placeholder='Input...' />
+         </div>;
 };
 
 export default InputText;
