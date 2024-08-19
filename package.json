@@ -3,6 +3,9 @@
   "name": "react-typescript-starter-pack",
   "version": "0.1.0",
   "dependencies": {
+    "@emotion/core": "^11.0.0",
+    "@emotion/react": "^11.13.0",
+    "@emotion/styled": "^11.13.0",
     "@fortawesome/fontawesome-free": "^6.5.1",
     "bulma": "^0.9.4",
     "classnames": "^2.3.2",

@@ -16,8 +16,24 @@ import InputText from './InputText';
 
 export const App: React.FC = () => {
   return (
-    <div className="starter">
-      <InputText />
+    <div>
+      {/* <div className="starter"> */}
+        <InputText />
+      {/* </div> */}
+
+      <div>
+        {/* <pre className="caret-bar">
+          <input /> <span>&nbsp;</span>
+        </pre> */}
+
+        {/* <pre className="caret-block">
+          $ npm run buil<span>d</span>
+        </pre>
+
+        <pre className="caret-underscore">
+          $ npm run build <span>&nbsp;</span>
+        </pre> */}
+      </div>
     </div>
   );
 };

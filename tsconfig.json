@@ -1,6 +1,7 @@
 {
   "extends": "@mate-academy/students-ts-config",
+  // "types": ["@emotion/react/types/css-prop"],
   "include": [
-    "src"
+    "src",
   ]
 }
